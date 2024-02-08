@@ -10,7 +10,6 @@ members = [
     "rnx2crx", 
     "sinex",
     "sp3",
-    "ublox-rnx", 
 ]
 
 exclude = ["./test_resources"]
